@@ -33,4 +33,12 @@ I'm a passionate IOS Developer with a love for creating interactive and dynamic 
 - [**Netflix Clone**](https://github.com/saadetsimsek/Netflix-Clone.git)
 - [**Spotify Clone**](https://github.com/saadetsimsek/spotify.git)
 
-  
+
+  ## 🚀 Fun Facts About Me
+- 🎨 I love combining design and code to create seamless user experiences.
+- 🌱 I'm currently learning Swift UIKit.
+- 💬 Ask me about anything related to IOS development.
+
+---
+
+⭐️ From [Saadet](https://github.com/saadetsimsek)

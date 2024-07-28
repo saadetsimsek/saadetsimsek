@@ -1,6 +1,5 @@
 ## Hi there 👋  I'm Saadet!
 
-![Profile Views](https://komarev.com/ghpvc/?username=saadetsimsek&color=blueviolet)
 
 I'm a passionate IOS Developer with a love for creating interactive and dynamic user experiences. Welcome to my GitHub profile!
 
